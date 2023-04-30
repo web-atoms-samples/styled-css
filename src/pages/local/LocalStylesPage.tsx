@@ -6,6 +6,8 @@ import { ContentPage } from "@web-atoms/web-controls/dist/mobile-app/MobileApp";
  * We recommend creating only single local style per compnent/page. This is just an example.
  * 
  * Ideally we recommend creating local css only for the top component.
+ * 
+ * Comments inside the styles are not currently supported.
  */
 
 const greenPanelCSS = styled.css `
